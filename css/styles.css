@@ -6,17 +6,6 @@ body {
   line-height:2;
 }
 
-a{
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-  text-decoration: none;
-}
-
-a:hover{
-  color:#eaf6f6;
-}
-
 hr{
   border: dotted 6px;
   border-bottom: none;
@@ -130,4 +119,27 @@ h3 {
   color:#eaf6f6;
   font-size: 82%;
   padding:20px 0;
+}
+
+
+.footer-link{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color:#eaf6f6;
+}
+
+.courses-link{
+  color:#40514E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.courses-link:hover{
+  color:black;
 }
